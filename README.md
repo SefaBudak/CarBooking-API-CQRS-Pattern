@@ -30,8 +30,6 @@ The main objective of this project is to implement a backend system using **Onio
 
 Here is a simplified diagram representing the Onion Architecture used in this project. All dependencies flow towards the center (Domain), ensuring the core logic is isolated.
 
-![Architectural Diagram](https://i.imgur.com/vH1tWnU.png)
-*(Not: Bu link, mimariyi temsil eden genel bir şema görselidir. Dilersen kendin `draw.io` gibi bir araçla çizip linki güncelleyebilirsin.)*
 
 ## Installation & Setup
 
